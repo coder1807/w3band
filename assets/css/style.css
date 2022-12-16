@@ -377,7 +377,7 @@ html {
 .modal-container {
     background-color: #fff;
     width: 900px;
-    max-width: calc(100% - 200px);
+    max-width: calc(80%);
     min-height: 200px;
     position: relative;
     animation: modalFadein ease 0.5s;

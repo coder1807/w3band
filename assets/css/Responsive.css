@@ -101,4 +101,8 @@
     .contact-form {
         margin-top: 32px;
     }
+
+    .modal-container {
+        max-width: calc(100%-50px);
+    }
 }
